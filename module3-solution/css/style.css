@@ -1,0 +1,63 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #aeadb4a1;
+}
+.navbar-toggle a:hover{
+	background: #E7E7E7;
+}
+body{
+	background-color: #126154;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#aeadb4a1;
+	align-items: center; 
+}
+
+.nav>li>a {
+	text-align: center;
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+	margin-bottom: 4%;
+}
+.text-center{
+	font-size: 30px;
+	text-align: center;
+	margin-bottom: 3%;
+}
+
+h2{
+	text-align: center;
+	
+}
+#myNavbar ul li a {
+	color: #aeadb4a1;
+	
+}
+.navbar-brand{
+font-size: 30px;
+align-items: center;
+padding-bottom: 8px;
+margin-top: 8px;	
+margin-left: 4px;
+}
+
+.row{
+	margin-bottom: 3%;
+}
